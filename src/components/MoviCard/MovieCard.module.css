@@ -1,0 +1,19 @@
+.card {
+  width: 220px;
+}
+
+.description {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: sans-serif;
+}
+
+.title {
+  color: #352486;
+}
+
+.average {
+  color: #a92fdd;
+  font-weight: 700;
+}
